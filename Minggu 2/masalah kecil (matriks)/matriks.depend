@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602329792 source:c:\users\acer\downloads\matriks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

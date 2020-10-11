@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602338221 source:c:\users\acer\downloads\tipe data bentukan 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
